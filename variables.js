@@ -28,7 +28,7 @@ let image =
  * 3. hobbyString         -> assign it to: "My hobby is {YOUR_HOBBY}""
  *
  * Uncomment the following lines and start interpolating.
- * You can uncomment a line by removing the // at the start
+ * You can uncomment a line by removing the // at the start ...
  */
 
 const fullNameString = `My name is ${fullName}`;
