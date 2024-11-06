@@ -37,7 +37,7 @@ const hobbyString = `My hobby is ${hobby}`;
 
 /**
  * Part 3: Re-assignment
- * Increment your hacker score
+ * Increment your hacker score ...
  * */
 
 let stars = 0;
